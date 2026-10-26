@@ -282,6 +282,3 @@ Created for educational and academic demonstration.
 
 ---
 
-## 📄 License
-
-Add a license before publishing the repository. If you do not intend to grant reuse rights, do not add an open-source license without considering the implications. The dataset may have a separate licence from the source code.
